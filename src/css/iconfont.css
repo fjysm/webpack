@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2788659 */
+  src: url('../fonts/iconfont.woff2?t=1659333209980') format('woff2'),
+       url('../fonts/iconfont.woff?t=1659333209980') format('woff'),
+       url('../fonts/iconfont.ttf?t=1659333209980') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-banquan:before {
+  content: "\e98b";
+}
+
+.icon-anquanyinsi:before {
+  content: "\e98c";
+}
+
+.icon-dicengjiagou:before {
+  content: "\e98d";
+}
+
+.icon-cangchucangku:before {
+  content: "\e98e";
+}
+
+.icon-bingtutubiao:before {
+  content: "\e98f";
+}
+
+.icon-chufang:before {
+  content: "\e990";
+}
+
+.icon-aixin:before {
+  content: "\e70b";
+}
+
+.icon-bumengaikuang:before {
+  content: "\e60d";
+}
+
+.icon-jishuzhuanyi:before {
+  content: "\e60e";
+}
+
+.icon-kejituandui:before {
+  content: "\e60f";
+}
+
+.icon-kexuejishu:before {
+  content: "\e610";
+}
+
+.icon-tongzhigonggao:before {
+  content: "\e611";
+}
+
+.icon-kexuejishu2:before {
+  content: "\e612";
+}
+
