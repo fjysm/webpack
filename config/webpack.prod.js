@@ -120,7 +120,10 @@ module.exports = {
             new TerserWebpackPligin({
                 parallel:3//开启多进程
             })
-        ]
+        ],
+        splitChunks: {
+            chunks: "all"
+        }
     },
 
     //模式
